@@ -1,4 +1,4 @@
-# Protein2SMILES Transformer (Code hidden waiting for publication)
+# Protein2SMILES Transformer
 Protein2SMILES Transformer is De novo drug discovery of protein-specific using Transformer Neural Network, as described in the "[Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)" paper, to generate novel drugs specific to proteins.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/86023602/226380074-5b5ba664-8746-4ce7-84ca-31bfee4ca1f0.png" width="400px" /></p>
