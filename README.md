@@ -54,5 +54,22 @@ There are several key args for prediction as follows:
 
 4. The output SMILES string can be used for further analysis, such as molecular docking or structure-based drug design.
 
+## Citation
+
+If you find this project useful in your research, please consider citing our paper:
+
+[Amine, A.M.E., Fadila, A. Transformer neural network for protein-specific drug discovery and validation using QSAR. J Proteins Proteom (2023). https://doi.org/10.1007/s42485-023-00124-6](https://link.springer.com/article/10.1007/s42485-023-00124-6)
+
+### BibTeX:
+```bibtex
+@article{AmineFadila2023,
+  author    = {Amine, A.M.E. and Fadila, A.},
+  title     = {Transformer neural network for protein-specific drug discovery and validation using QSAR},
+  journal   = {Journal of Proteins and Proteomics},
+  year      = {2023},
+  doi       = {10.1007/s42485-023-00124-6}
+}
+```
+
 ## Licence
 Protein2SMILES Transformer is released under the [MIT License](https://github.com/AtilMohAmine/protein2smiles-Transformer/blob/main/Licence).
