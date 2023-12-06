@@ -63,7 +63,7 @@ If you find this project useful in your research, please consider citing our pap
 ### BibTeX:
 ```bibtex
 @article{AmineFadila2023,
-  author    = {Amine, A.M.E. and Fadila, A.},
+  author    = {Atil Mohamed El Amine, Atil Fadila},
   title     = {Transformer neural network for protein-specific drug discovery and validation using QSAR},
   journal   = {Journal of Proteins and Proteomics},
   year      = {2023},
